@@ -1,0 +1,54 @@
+.box {
+    position: relative;
+    height: 650px;
+    width: 650px;
+    margin: 1% auto;
+    background-color: lightgray;
+}
+
+.position {
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+#azul {
+    background-color: blue;
+    top: 50%;
+    left: 50%;
+    height: 70%;
+    width: 70%;
+}
+
+#vermelho {
+    background-color: red;
+    top: 50%;
+    left: 50%;
+    height: 75%;
+    width: 75%;
+}
+
+#preto {
+    background-color: black;
+    top: 50%;
+    left: 50%;
+    height: 70%;
+    width: 70%;
+}
+
+#verde {
+    background-color: green;
+    top: 50%;
+    left: 50%;
+    height: 50%;
+    width: 50%;
+}
+
+#amarelo {
+    background-color: yellow;
+    top: 50%;
+    left: 50%;
+    height: 45%;
+    width: 45%;
+}
+
+

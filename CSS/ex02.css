@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: lightgray;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.black {
+    background-color: black;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+
+#top-right {
+    top: 0px;
+    right: 0px;
+}
+
+#top-left {
+    top: 0px;
+    left: 0px;
+}
+
+#bot-right {
+    bottom: 0px;
+    right: 0px;
+}
+
+#bot-left {
+    bottom: 0px;
+    left: 0px;
+}
+
